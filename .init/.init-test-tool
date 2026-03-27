@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-notes-application-249829-249844/notes_backend"
+}
